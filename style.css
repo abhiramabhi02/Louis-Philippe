@@ -1,0 +1,398 @@
+body{
+margin: 0;
+}
+
+.full-body{
+    width: 1085px;
+    background-color: #fff;
+    height: 3200px;
+    margin-left: 103px;
+}
+.header{
+     width: 1085px;
+     background-color: #fff;
+     height: 102px;
+     
+
+}
+#icon1{
+    align-items: center;
+    font-size: 17px;
+    margin-left: 700px;
+    float: left;
+    padding-top: 4px;
+    color: black;
+    
+}
+.p1{
+    float: left;
+    font-size: 10px;
+    padding-left: 5px;
+    color: black;
+
+}
+#icon2{
+    align-items: center;
+    font-size: 16px;
+    float: left;
+    padding-left: 26px;
+    padding-top: 5px;
+    color: black;
+    
+}
+.p2{
+    float: left;
+    font-size: 10px;
+    padding-left: 5px;
+    color: black;
+
+}
+#icon3{
+    align-items: center;
+    font-size: 16px;
+    float: left;
+    padding-left: 26px;
+    padding-top: 6px;
+    color: black;
+    
+}
+.p3{
+    float: left;
+    font-size: 10px;
+    padding-left: 5px;
+    color: black;
+}
+.logo1{
+    margin-left: 10px;
+    float: left;
+}
+#searchbar{
+    float: left;
+    margin-left: 415px;
+    padding-top: 7px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    size: 30px;
+    border: 0;
+    background-color: rgb(230, 226, 226);
+    border-radius: 6px;
+}
+#icon4{
+    padding-left: 10px;
+    padding-top: 25px;
+    float: left;
+    text-decoration: none;
+    color: black;
+}
+#icon5{
+    padding-left: 40px;
+    padding-top: 22px;
+    float: left;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+.p{
+    font-size: 10px;
+    text-decoration: none;
+    color: black;
+    float: left;
+    padding-top: 28px;
+    padding-left: 5px;
+    font-size: 11px;
+}
+#icon6{
+    padding-left: 40px;
+    padding-top: 22px;
+    float: left;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#icon7{
+    padding-left: 40px;
+    padding-top: 22px;
+    float: left;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.site-nav{
+    width: 1081px;
+    height: 30px;
+    background-color: #fff;
+    border:solid 1.5px;
+    
+}
+.nav-items{
+    margin-left: 48px;
+    color: rgb(98, 95, 95);
+    font-size: 13px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.nav-items:hover{
+   border-bottom: solid 2px black;
+   transition: ease-in;
+
+}
+.first-img{
+    width: 1085px;
+    display: flex;
+    transition: .3s;
+    
+}
+.carousel-img-1{
+    width: 1085px;
+    display: flex;
+    transition: .3s;
+}
+.carousel-img-1:hover{
+    transform: scale(1.005);
+    overflow: hidden;
+}
+.first-img:hover{
+    transform: scale(1.005);
+}
+.search-item{
+   width: 1085px;
+   height: 130px;
+   border: 1px solid;
+    box-shadow: 3px 6px 3px rgb(226, 218, 218);
+}
+.search-p1{
+    font-size: 23px;
+    font-weight: bolder;
+    margin-left: 33px;
+}
+.search-p2{
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 38px;
+    float: left;
+}
+.select1{
+    padding-left: 224px;
+    padding-top: 15px;
+    float: left;
+    margin-left: 38px;
+    margin-top: 9px;
+    display: flex;
+    justify-content: center;
+}
+.search-p3{
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 62px;
+    float: left;
+}
+.select2{
+    margin-left: 41px;
+    margin-top: 10px;
+    padding-left: 109px;
+    padding-top: 14px;
+}
+.img-01{
+    width: 1085px;
+    height: 250px;
+}
+.image2{
+    margin-left: 20px;
+}
+.img2-container{
+    width: 45%;
+    border: 1px solid black;
+    overflow: hidden;
+    float: left;
+    margin-left: 25px;
+}
+
+.img3-container{
+    width: 45%;
+    border: 1px solid black;
+    overflow: hidden;
+    float: left;
+    margin-left: 30px;
+}
+
+.img2-1{
+    float: left;
+    transition: transform 0.3s;
+    overflow: hidden;
+}
+.img2-1:hover{
+    transform: scale(1.01);
+}
+.img2-2{
+    float: left;
+    transition: transform 0.3s;
+    overflow: hidden;
+}
+.img2-2:hover{
+    transform: scale(1.01);
+}
+.image3{
+    width: 1085px;
+    overflow: hidden;
+}
+.img3{
+    width: 1085px;
+    transition: transform 0.3s;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.img3:hover{
+    transform: scale(1.01);
+}
+.image4{
+    width: 1085px;
+}
+.img4{
+    width: 1085px;
+}
+.h-p{
+    display: flex;
+    justify-content: center;
+}
+.ytvideo{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.line{
+    color: black;
+    font-weight: bolder;
+}
+.footer{
+    width: 1085px;
+    height: 250px;
+    display: flex;
+    margin-top: 80px;
+}
+.my-account{
+    width: 20%;
+    
+}
+.my-account a{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 14px;
+    color: gray;
+    cursor: pointer;
+}
+.my-account a:hover{
+    color:  rgb(44, 42, 42);
+}
+.head1{
+    margin-left: 62px;
+    font-size: 14px;
+}
+.about-us{
+    width: 20%;
+    
+}
+.about-us a{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 14px;
+    color: gray;
+    cursor: pointer;
+}
+.about-us a:hover{
+    color:  rgb(44, 42, 42);
+}
+.head2{
+    margin-left: 72px;
+}
+.policies{
+    width: 20%;
+    
+}
+.policies a{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 14px;
+    color: gray;
+    cursor: pointer;
+}
+.policies a:hover{
+    color:  rgb(44, 42, 42);
+}
+.head3{
+    margin-left: 76px;
+}
+
+.contact{
+    width: 20%;
+    
+}
+.contact a{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 14px;
+    color: gray;
+    cursor: pointer;
+}
+.contact a:hover{
+    color: rgb(44, 42, 42) ;
+}
+.head4{
+    margin-left: 80px;
+}
+.top-categories{
+    width: 20%;
+    
+}
+.top-categories a{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 14px;
+    color: gray;
+    cursor: pointer;
+}
+.top-categories a:hover{
+    color: rgb(44, 42, 42);
+}
+.head5{
+    margin-left: 65px;
+}
+.footer-2{
+    display: flex;
+    justify-content: end;
+    margin-right: 70px;
+    
+}
+#s-1{
+     font-size: 28px;
+     color: gray;
+     padding-left: 20px;
+}
+#s-1:hover{
+    color: rgb(54, 53, 53);
+}
+.last-head{
+    color: gray;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-weight: 700;
+}
+.last-p{
+    color: gray;
+    margin-left: 30px;
+    margin-top: 40px;
+    font-weight: 400;
+}
+.last-p2{
+    color: gray;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.last-img{
+    margin-top: 50px;
+    margin-left: 494px;
+}
